@@ -1,0 +1,68 @@
+.home-page {
+    text-align: center;
+  background-image: url("https://media.istockphoto.com/id/1029708036/photo/beautiful-night-sky-with-milky-way-over-forest-night-landscape-azerbaijan.webp?s=170667a&w=0&k=20&c=4OtU30eqLgV4SfVjBN52w85DDgZP89Lksr-r_Vmcw1w=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     /* height: 70vh; */
+     padding: 60px;
+    color: #cde8e8;
+    overflow-y: hidden;
+  }
+  .contnt
+  {
+    margin-bottom: -10px;
+    margin-left: 280px;
+  }
+  
+  .text
+  {
+    color: #f7f3f0;;
+    margin-right: 700px;
+    margin-top: 175px;
+  }
+  
+  .quiz-button {
+    
+    padding: 25px 50px;
+    font-size: 19px;
+    background-color: #9f773f;
+    color: rgb(6, 2, 2);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 200px;
+    font-size: x-large;
+    text-align: center;
+  }
+  .t1
+  {
+    color:#f8f9fb;
+    margin-right: 700px;
+    margin-top: 50px;
+    font-size: x-large;
+  }
+  .no1
+  {
+    left: 50px;
+  }
+  
+  .quiz-button:hover {
+    background-color: #c1c177;
+  }
+  .but
+  {
+margin-left: 740px;
+  }
+  .n1
+  {
+    margin-top:-70% ;
+  }
+  .no2
+  {
+    margin-top: 195px;
+  }
+  .no3
+  {
+   margin-top: 220px;
+  }
